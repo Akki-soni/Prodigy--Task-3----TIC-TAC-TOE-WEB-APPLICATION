@@ -35,7 +35,7 @@
 
 ## 🌟 Screenshots
 
-![Game Screenshot](asserts/screenshot.png)
+![Game Screenshot](asserts/Screenshot.png)
 
 ## 🤝 Contributing
 
