@@ -37,6 +37,10 @@
 
 ![Game Screenshot](asserts/Screenshot1.png)
 
+## 🔗 Live Demo
+
+[View Live Demo](https://prodigy-task-3-tic-tac-toe-web-application.vercel.app/)
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
@@ -47,6 +51,16 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashchandraverma/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Akki-soni)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/akki_214g/)
+<div align="center">
+
+[![Visit My Profile](https://img.shields.io/badge/Visit%20My%20Profile-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akki-soni)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashchandraverma/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akki-soni)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akki_214g/)
+
+<a href="">
+  <img src="asserts/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
+</a>
+
+</div>
